@@ -6,4 +6,4 @@ Curso GIT
 
 Editando arquivo
 
-
+Alterando nome de arquivo via GITHUB
